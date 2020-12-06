@@ -1,0 +1,8 @@
+﻿D:\Vita\mine\3ddd\Alea Odeon\Chairs\Karl B\t$m$p$$$\Karl B.max
+D:\Vita\mine\3ddd\Alea Odeon\Chairs\Karl B\t$m$p$$$\MAXFILES.TXT
+D:\Vita\Template\Textures\1347 Sun Clouds Corona - half res.hdr
+D:\Vita\Template\Textures\VizPeople_non_commercial_hdr_v1_03.hdr
+C:\Program Files\Corona\materials\assets\d6d2f88f16cd.jpg
+C:\Program Files\Corona\materials\assets\e996e9f43e57.jpg
+C:\Program Files\Corona\materials\assets\5c4c47db542b.jpg
+C:\Program Files\Corona\materials\assets\c3b2fdf4355b.jpg
